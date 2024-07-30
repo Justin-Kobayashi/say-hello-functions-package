@@ -1,0 +1,23 @@
+{
+  "name": "say-hello-functions",
+  "description": "Just a test package.",
+  "version": "0.0.1",
+  "main": "./dist/index.js",
+  "module": "./dist/index.mjs",
+  "types": "./dist/index.d.ts",
+  "repository": {
+    "url": "https://github.com/Justin-Kobayashi/say-hello-functions-package"
+  },
+  "scripts": {
+    "build": "tsup"
+  },
+  "keywords": [
+    "test"
+  ],
+  "author": "jkobayashi",
+  "license": "MIT",
+  "devDependencies": {
+    "tsup": "^8.2.3",
+    "typescript": "^5.5.4"
+  }
+}
