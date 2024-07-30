@@ -1,7 +1,7 @@
 {
-  "name": "say-hello-functions",
+  "name": "say-hello-test-package",
   "description": "Just a test package.",
-  "version": "0.0.1",
+  "version": "0.1.1",
   "main": "./dist/index.js",
   "module": "./dist/index.mjs",
   "types": "./dist/index.d.ts",
